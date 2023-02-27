@@ -1,2 +1,3 @@
 git_moduls/
 *.txt
+!test.txt
